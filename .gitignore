@@ -33,6 +33,7 @@ MANIFEST
 
 # Virtual environments
 venv/
+cellpose_env/
 ENV/
 env.bak/
 venv.bak/

@@ -15,7 +15,7 @@ cd Microscopy-Assistant
 
 ### 2. Install Dependencies
 
-Make sure you have Python >= 3.9 installed. Then install the required Python packages:
+Make sure you have Python ==3.10 installed. Then install the required Python packages:
 
 ```bash
 pip install -r requirements.txt
@@ -37,7 +37,7 @@ python app.py
 
 ## Dependencies
 
-- **Python 3.9+**
+- **Python 3.10**
 - **Gradio**: For building the interactive web interface.
 - **NumPy**: Numerical operations on images.
 - **Pandas**: Organize and display cell metrics in a table.
